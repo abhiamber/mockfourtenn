@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/abhiamber/mockfourtenn/issues"
   },
-  "homepage": "https://github.com/abhiamber/mockfourtenn#readme"
+  "homepage": "https://github.com/abhiamber/mockfourtenn#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0"
+  }
 }
